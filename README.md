@@ -1,4 +1,6 @@
-# Workarounf to get neuzz to work on a Mac.
+#NEUZZ: a neural-network-assisted fuzzer
+
+Workaround to get NEUZZ to work on a Mac.
 
 ## Prerequisite
 - Python 3
