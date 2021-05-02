@@ -1,4 +1,4 @@
-#NEUZZ: a neural-network-assisted fuzzer
+# NEUZZ: a neural-network-assisted fuzzer
 
 Workaround to get NEUZZ to work on a Mac.
 
