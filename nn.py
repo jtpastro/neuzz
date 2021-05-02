@@ -349,7 +349,7 @@ def build_model():
     model.add(Dense(num_classes))
     model.add(Activation('sigmoid'))
 
-    opt = keras.optimizers.adam(lr=0.0001)
+    opt = tf.optimizers.adam(lr=0.0001)
 
     model.compile(loss='binary_crossentropy', optimizer=opt, metrics=[accur_1])
     model.summary()
